@@ -1,0 +1,11 @@
+/* 插入譯文的樣式 */
+.translation {
+  margin-top: 5px; /* 與原文保持間距 */
+  font-style: normal; /* 繼承原文字體樣式 */
+  font-size: inherit; /* 與原文字體大小一致 */
+  color: inherit; /* 繼承原文字體顏色 */
+  background: none; /* 移除背景色 */
+  border: none; /* 移除任何可能的邊框樣式 */
+  padding: 0; /* 移除多餘的內距 */
+  white-space: pre-wrap; /* 支援多行段落翻譯 */
+}
