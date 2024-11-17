@@ -20,5 +20,11 @@
       "js": ["content-script.js"],
       "css": ["style.css"]
     }
-  ]
+  ],
+  "applications": {
+    "gecko": {
+      "id": "immersive-translate@example.com",
+      "update_url": "https://HOSIAOI.github.io/Firefox-Translation/updates/updates.json"
+    }
+  }
 }
