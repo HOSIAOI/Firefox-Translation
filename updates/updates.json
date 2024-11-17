@@ -1,0 +1,16 @@
+{
+  "addons": {
+    "immersive-translate@example.com": {
+      "updates": [
+        {
+          "version": "1.1",
+          "update_link": "https://HOSIAOI.github.io/Firefox-Translation/updates/immersive-translate-1.1.xpi"
+        },
+        {
+          "version": "1.2",
+          "update_link": "https://HOSIAOI.github.io/Firefox-Translation/updates/immersive-translate-1.2.xpi"
+        }
+      ]
+    }
+  }
+}
